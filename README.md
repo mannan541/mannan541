@@ -11,9 +11,9 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/abdul-mannan-17949550/))
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([-portfolio-url](https://codebrew.ltd/))
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mannan796@gmail.com)
   
 </div>
 
@@ -46,41 +46,6 @@ Hello! I'm Abdul Mannan, a Software Engineer 👋. With extensive experience in 
 - 🌐 Portfolio: https://codebrew.ltd/
 - 📧 Email: mannan796@gmail.com
 
-### 📈 GitHub Stats:
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  <h3>🔝 Top Contributed Repositories</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=your-username&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repositories" />
-</div>
 <!-- You can add GitHub stats widgets here -->
 
 ---
