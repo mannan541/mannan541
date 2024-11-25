@@ -13,34 +13,13 @@
   <a href="https://www.linkedin.com/in/abdul-mannan-17949550/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://codebrew.ltd/">
+  <a href="https://www.codebrew.ltd/portfolio/">
     <img src="https://img.shields.io/badge/Codebrew-Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
   <a href="mailto:mannan796@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter" />
-  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/iOS-Developer-000000?style=flat-square&logo=apple" />
-  <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=flat-square&logo=android" />
-  <img src="https://img.shields.io/badge/KMP-Developer-7F52FF?style=flat-square&logo=kotlin" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Java-Expert-007396?style=flat-square&logo=java" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Firebase-Expert-FFCA28?style=flat-square&logo=firebase" />
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square&logo=mysql" />
-</div>
-
 ---
 
 # About Me 💭
@@ -71,6 +50,13 @@ Hello! I'm Abdul Mannan, a Software Engineer 👋. With extensive experience in 
 - 📧 Email: mannan796@gmail.com
 
 <!-- You can add GitHub stats widgets here -->
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter" />
+  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/iOS-Developer-000000?style=flat-square&logo=apple" />
+  <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=flat-square&logo=android" />
+  <img src="https://img.shields.io/badge/KMP-Developer-7F52FF?style=flat-square&logo=kotlin" />
+</div>
+<dib/>
 ---
 💡 Always open to collaborating on interesting projects and innovative ideas!
